@@ -25,5 +25,5 @@ help - To know about bot
 #### LICENSE
 - GPLv3
 
-#### NOTE:
+## NOTE:
 Code Was Not Fully Developed By Me Im Just An Editor 😅 Credits Goes To Respective Owners Of This Awesome Code🤗
