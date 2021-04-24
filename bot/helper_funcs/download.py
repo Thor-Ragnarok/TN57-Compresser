@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) gautamajay52 | Shrimadhav U K
+# (c) Thor Ragnarok | Shinchan
 
 # the logging things
 import logging
