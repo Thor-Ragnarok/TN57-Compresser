@@ -1,31 +1,7 @@
----
-
-## Video Compressor Bot
-
-## HOW TO DEPLOY YOUTUBE TUTORIAL
-
-<a href="https://youtu.be/YEwAN3iTGyE"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
 #### The Easy Way
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thor-Ragnarok/TN57-Compresser)
 
-#### The Hard Way
-
-```sh
-virtualenv -p python3 VENV
-. ./VENV/bin/activate
-pip install -r requirements.txt
-# <Create config.py with variables as given below>
-python bot.py
-```
-
-An example `config.py` file could be:
-
-**Not All of the variables are mandatory**
-
-```python3
-from sample_config import Config
 
 class Development(Config):
   APP_ID = 6
@@ -45,9 +21,9 @@ cancel - Stop the process.
 log - Get log
 help - To know about bot
 ```
-## CREDITS
-
-[@SpEcHide](https://github.com/spechide/publicleech)
 
 #### LICENSE
 - GPLv3
+
+#### NOTE:
+Code Was Not Fully Developed By Me Im Just An Editor 😅 Credits Goes To Respective Owners Of This Awesome Code🤗
